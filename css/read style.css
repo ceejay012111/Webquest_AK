@@ -1,0 +1,168 @@
+body{
+	margin:20;
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(../14.jpeg);
+	color: white;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	font-size: 22px;
+   
+  
+}
+header {
+	font-size: 20px;
+	background-color: rgba(255, 255, 255, 0);
+	color: #cccccc;
+	height: 75px;
+}
+#topbar{
+	width:75%;
+	margin-left: auto ;
+    margin-right: auto ;
+}
+nav {
+	float: right;
+}
+nav li{
+	display: inline;
+	padding-right: 30px;
+}
+.logo {
+	float:left;
+	font-size:30px;
+	padding-left:20px;
+	padding-top:20px;
+}
+
+.box{
+	margin-top: 20px;
+	width:75%;
+	margin-left: auto ;
+    margin-right: auto ;
+    height: 75%;
+}
+
+.blog-post{
+	margin-top:20px;
+	float:left;
+}
+.blog-heading{
+	margin-top: 120px;
+	font-size: 36px;
+	margin-bottom:20px;
+}
+.blog-body{
+	font-style: 20;
+}
+
+
+footer{	
+	color: white;	
+	margin-left: auto ;    
+	margin-right: auto ;	
+	font-size:16px;	
+	min-height: 50px;	
+	padding:20px;	
+	background-color: transparent;	
+}
+#footer{	
+	width:50%;
+	margin-left: auto ;    
+	margin-right: auto ;
+}
+ img{
+  float: left;
+  width: 800px;
+  height: auto;
+}
+
+.button{
+  position: absolute;
+  transform: translate(-50%-50%);
+}
+
+.btn{
+  position: absolute;
+  top: 20%;
+  left:3%;
+  border: 5px solid #fff;
+  padding: 10px 30px;
+  color:white;
+  text-decoration: none;
+  transition: 0.6s ease;
+}
+.btn:hover{
+  background-color: #fff;
+  color: #000;
+}
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 25px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+  transition: 0.6s ease;
+}
+
+ul li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+ul li.active a{
+  background-color: #fff;
+  color: #000;
+  
+}
+
+
+.img-widget{
+	width: 300px
+}
+
+.img-widget2{
+	width: 669px;
+	height: 554px
+	
+}
+.img-widget3{
+	width: 595px;
+	height: 471px
+	
+}
+.img-widget4{
+	width: 669px;
+	height: 320px
+	
+}
+.btnn{
+  border: 2px solid #fff;
+  padding: 10px 30px;
+  color:white;
+  text-decoration: none;
+  transition: 0.6s ease;
+}
+.btnn:hover{
+  background-color: #fff;
+  color: #000;
+}
+.btnny{
+  border: 2px solid #fff;
+  padding: 10px 30px;
+  color:white;
+  text-decoration: none;
+  transition: 0.6s ease;
+  display: grid;
+  place-items: center;
+  height: 20vh;
+  justify-content: center;
+ }

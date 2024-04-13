@@ -1,0 +1,4 @@
+<div class="button">
+			<a href="Video.html"	class="btn">WATCH VIDEO</a>
+			<a href="Read.html.html"	class="btn">Poet emz eh </a>
+		</div>
